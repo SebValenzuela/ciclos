@@ -1,0 +1,11 @@
+n = ARGV[0].to_i
+acumulador = ""
+i = "a"
+i + a = "b"
+a + b = "c"
+ab + c = "d"
+n.times do |i|
+  acumulador += i
+  i = i.next
+end
+  puts acumulador
